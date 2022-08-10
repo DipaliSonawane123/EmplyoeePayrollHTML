@@ -88,6 +88,7 @@ body {
 label {
     padding: 12px 12px 12px 0px;
     display: inline-block;
+    color: blue;
 }
 
 .text {
@@ -100,9 +101,10 @@ label {
 .input {
     width: 100%;
     padding: 12px;
-    border: 1px solid #ccc;
+    border: 1px solid ;
     border-radius: 4px;
     resize: vertical;
+    
 }
 
 .profile-radio-content {
@@ -157,7 +159,8 @@ select {
   }
   
   .submitButton {
-    background-color: #f8f8f821;
+    border: none;
+    border: 1px solid grey;
     margin-right: 30px;
   }
   
