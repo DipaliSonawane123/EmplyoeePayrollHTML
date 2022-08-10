@@ -88,7 +88,6 @@ body {
 label {
     padding: 12px 12px 12px 0px;
     display: inline-block;
-    color: blue;
 }
 
 .text {
@@ -101,10 +100,9 @@ label {
 .input {
     width: 100%;
     padding: 12px;
-    border: 1px solid ;
+    border: 1px solid #ccc;
     border-radius: 4px;
     resize: vertical;
-    
 }
 
 .profile-radio-content {
